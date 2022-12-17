@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_clean/presentation/font_manager.dart';
+import 'package:flutter_clean/presentation/resources/font_manager.dart';
 
 // Text Style'leleri yöneteceğimiz functionlar
 
